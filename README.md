@@ -156,8 +156,7 @@ A aplicação permitirá:
 
 ---
 
-## *7. Planeamento e Calendarização*
-
+## *7. Plano e Calendarização*
 
 
 <img width="812" height="800" alt="image" src="https://github.com/user-attachments/assets/8f8630e6-3506-42a0-a5a0-7494f1ad6282" />
@@ -167,14 +166,14 @@ A aplicação permitirá:
 
 ## *8. Conclusão*
 
-O projeto Walk 4 Conquest pretende combinar gamificação, fitness e socialização através de uma abordagem competitiva e divertida. O objetivo principal é criar um protótipo funcional que permita testar a motivação gerada pela conquista de territórios e interação entre utilizadores. Espera-se que a aplicação contribua para aumentar a prática de atividade física de forma sustentável e envolvente.
+O projeto Walk 4 Conquest pretende combinar a componente de jogo, fitness e socialização através de uma abordagem competitiva e divertida. O objetivo principal é criar um protótipo funcional que permita testar a motivação gerada pela conquista de territórios e interação entre utilizadores. A aplicação tem como objetivo aumentar a prática de atividade física de forma sustentável e envolvente.
 
 ---
 
 ## *9. Bibliografia*
 
 Bump (aplicação)
-ChatGPT(site)
+ChatGPT (site)
 https://www.jaba-recordati.pt/pt/transact-lat/dicas-de-lifestyle/atividade-fisica-lifestyle-18-descobre-as-10-melhores-apps-de-fitness
 Territorial.io (aplicação)
 
