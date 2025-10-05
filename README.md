@@ -18,7 +18,7 @@ Miguel Croca - Nº 20240408
 Proposta Inicial do Projeto
 Walk 4 Conquest (W4C)
 
-Link do Repositório GitHub: [⚙ Inserir link do repositório]
+Link do Repositório GitHub: https://github.com/Miguelcroca/Projeto-Walk-4-Conquest-/blob/main/README.md
 
 ___________________________________________________________________
 
