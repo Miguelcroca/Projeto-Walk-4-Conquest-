@@ -1,10 +1,10 @@
-Universidade - Iade Faculdade de Design, Tecnologia e Comunicação da Universidade curricular
-Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , Programação Orientada por Objetos  , Bases de Dados , Competências Comunicacionais , Matemática Discreta 
-Elementos do Grupo 
-Bento d'Orey – Nº 20241233
-Martim Fonseca – Nº 20241218
-Vasco Sousa Pinto – Nº 20231182
-Miguel Croca - Nº 20240408
+Universidade - Iade Faculdade de Design, Tecnologia e Comunicação da Universidade curricular.
+Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , Programação Orientada por Objetos  , Bases de Dados , Competências Comunicacionais , Matemática Discreta.
+Elementos do Grupo.
+Bento d'Orey – Nº 20241233.
+Martim Fonseca – Nº 20241218.
+Vasco Sousa Pinto – Nº 20231182.
+Miguel Croca - Nº 20240408.
 
 ---
 
@@ -25,7 +25,7 @@ ___________________________________________________________________
 Fitness · Gamificação · Competição · Saúde · GPS · Comunidade
 ___________________________________________________________________
 
-1. Breve Descrição da App e do Problema que Pretende Resolver
+## *1. Breve Descrição da App e do Problema que Pretende Resolver*
 
 A Walk 4 Conquest (W4C) é uma aplicação móvel que promove o fitness com um aspeto social e competitivo.  
 O objetivo é criar uma app que incentive a prática de exercício físico, transformando percursos em conquistas competitivas e sociais, promovendo saúde, diversão e espírito de jogo.
@@ -43,7 +43,7 @@ A aplicação permite ao utilizador definir a sua “base” (ex: casa, escritó
 ___________________________________________________________________
 
 
-2. Objetivos e Motivação
+## *2. Objetivos e Motivação*
 
 A Walk 4 Conquest pretende:
 - Incentivar hábitos saudáveis de forma lúdica e competitiva;
@@ -54,14 +54,14 @@ A Walk 4 Conquest pretende:
 ___________________________________________________________________
 
 
-3. Público-Alvo
+## *3. Público-Alvo*
 
 O público-alvo são jovens e adultos entre 18 e 40 anos, ativos, que praticam corrida ou caminhada e utilizam apps móveis para registar atividade física. Valorizam o exercício, a competição saudável e o convívio digital através de plataformas sociais.
 
 ___________________________________________________________________
 
 
-4. Pesquisa de Mercado
+## *4. Pesquisa de Mercado*
 
 *Strava*  Registo GPS, estatísticas, rede social ; Foco competitivo, mas sem conquistas territoriais 
 *Nike Run Club*  Treinos guiados, partilhas sociais ; Menos personalização e desafios entre utilizadores 
@@ -71,7 +71,7 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 
-5. Guiões de Teste (Casos de Utilização)
+## *5. Guiões de Teste (Casos de Utilização)*
 
 *Caso 1 – Core: Conquista de Território*
 1. O utilizador cria conta e autentica-se.  
@@ -95,7 +95,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-*6. Descrição da Solução a Implementar*
+## *6. Descrição da Solução a Implementar*
 
 A aplicação permitirá:
 - Criação e autenticação da conta;
