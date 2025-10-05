@@ -4,9 +4,16 @@ Elementos do Grupo
 Bento d'Orey – Nº 20241233
 Martim Fonseca – Nº 20241218
 Vasco Sousa Pinto – Nº 
-Miguel Croca - Nº
+Miguel Croca - Nº 20240408
 
 ---
+
+
+
+![w4c](https://github.com/user-attachments/assets/906fd288-0a87-4b30-97fa-662df0413153)
+
+
+
 
 Proposta Inicial do Projeto
 Walk 4 Conquest (W4C)
@@ -26,6 +33,12 @@ O objetivo é criar uma app que incentive a prática de exercício físico, tran
 Esta ideia surgiu da observação de que muitas pessoas desejam praticar exercício, mas não têm motivação suficiente ou necessitam de incentivo externo, como um treinador ou atividades em grupo. Assim, a Walk 4 Conquest propõe um novo meio de incentivo, recorrendo ao prazer da conquista e ao espírito competitivo individual.
 
 A aplicação permite ao utilizador definir a sua “base” (ex: casa, escritório, escola) e iniciar um percurso. Ao regressar à base, a corrida é dada como concluída e o trajeto é marcado no mapa. Surge então a componente competitiva: cada território conquistado pode ser partilhado, e outros utilizadores podem tentar reconquistá-lo, criando uma dinâmica contínua de desafios.
+
+
+
+![poster w4](https://github.com/user-attachments/assets/a9099476-b4ff-4c67-8588-b87ae5fb2493)
+
+
 
 ___________________________________________________________________
 
@@ -136,6 +149,11 @@ A aplicação permitirá:
 | Base de Dados | Firestore / MySQL |
 | Mapas e GPS | Google Maps API |
 | Autenticação | Firebase Auth |
+
+
+
+![mockup](https://github.com/user-attachments/assets/5fc6c53e-868d-4264-b439-f95f348f289f)
+
 
 ---
 
