@@ -1,11 +1,10 @@
-Universidade - Iade Faculdade de Design, Tecnologia e Comunicação da Universidade curricular.
-Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , Programação Orientada por Objetos  , Bases de Dados , Competências Comunicacionais , Matemática Discreta.
-Elementos do Grupo.
-Bento d'Orey – Nº 20241233.
-Martim Fonseca – Nº 20241218.
-Vasco Sousa Pinto – Nº 20231182.
-Miguel Croca - Nº 20240408.
-
+Universidade - Iade Faculdade de Design, Tecnologia e Comunicação da Universidade curricular  
+Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , Programação Orientada por Objetos  , Bases de Dados , Competências Comunicacionais , Matemática Discreta  
+Elementos do Grupo  
+Bento d'Orey – Nº 20241233  
+Martim Fonseca – Nº 20241218  
+Vasco Sousa Pinto – Nº 20231182  
+Miguel Croca - Nº 20240408  
 ---
 
 
@@ -173,8 +172,8 @@ O projeto Walk 4 Conquest pretende combinar a componente de jogo, fitness e soci
 
 ## *9. Bibliografia*
 
-Bump (aplicação)
-ChatGPT (site)
-https://www.jaba-recordati.pt/pt/transact-lat/dicas-de-lifestyle/atividade-fisica-lifestyle-18-descobre-as-10-melhores-apps-de-fitness
-Territorial.io (aplicação)
+Bump (aplicação)  
+ChatGPT (site)  
+https://www.jaba-recordati.pt/pt/transact-lat/dicas-de-lifestyle/atividade-fisica-lifestyle-18-descobre-as-10-melhores-apps-de-fitness  
+Territorial.io (aplicação)  
 
