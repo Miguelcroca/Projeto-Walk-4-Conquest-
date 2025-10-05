@@ -1,2 +1,172 @@
-# Projeto-Walk-4-Conquest-
-A walk 4 Conquest é uma app que promove o fitness com um aspeto social e competitivo
+Universidade - Iade Faculdade de Desgin, Tecnologia e Comunicação da Universidade curricular
+Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , Programação Orientada por Objetos  , Bases de Dados , Competências Comunicacionais , Matemática Discreta 
+Elementos do Grupo 
+Bento d'Orey – Nº 20241233
+Martim Fonseca – Nº 20241218
+Vasco Sousa Pinto – Nº 
+Miguel Croca - Nº
+
+---
+
+Proposta Inicial do Projeto
+Walk 4 Conquest (W4C)
+
+Link do Repositório GitHub: [⚙ Inserir link do repositório]
+
+___________________________________________________________________
+
+Fitness · Gamificação · Competição · Saúde · GPS · Comunidade
+___________________________________________________________________
+
+1. Breve Descrição da App e do Problema que Pretende Resolver
+
+A Walk 4 Conquest (W4C) é uma aplicação móvel que promove o fitness com um aspeto social e competitivo.  
+O objetivo é criar uma app que incentive a prática de exercício físico, transformando percursos em conquistas competitivas e sociais, promovendo saúde, diversão e espírito de jogo.
+
+Esta ideia surgiu da observação de que muitas pessoas desejam praticar exercício, mas não têm motivação suficiente ou necessitam de incentivo externo, como um treinador ou atividades em grupo. Assim, a Walk 4 Conquest propõe um novo meio de incentivo, recorrendo ao prazer da conquista e ao espírito competitivo individual.
+
+A aplicação permite ao utilizador definir a sua “base” (ex: casa, escritório, escola) e iniciar um percurso. Ao regressar à base, a corrida é dada como concluída e o trajeto é marcado no mapa. Surge então a componente competitiva: cada território conquistado pode ser partilhado, e outros utilizadores podem tentar reconquistá-lo, criando uma dinâmica contínua de desafios.
+
+___________________________________________________________________
+
+
+2. Objetivos e Motivação
+
+A Walk 4 Conquest pretende:
+- Incentivar hábitos saudáveis de forma lúdica e competitiva;
+- Promover a socialização através de partilhas e desafios;
+- Criar um sistema de “territórios conquistados” para aumentar o envolvimento dos utilizadores;
+- Desenvolver um protótipo funcional para validação com utilizadores reais.
+
+___________________________________________________________________
+
+
+3. Público-Alvo
+
+O público-alvo são jovens e adultos entre 18 e 40 anos, ativos, que praticam corrida ou caminhada e utilizam apps móveis para registar atividade física. Valorizam o exercício, a competição saudável e o convívio digital através de plataformas sociais.
+
+___________________________________________________________________
+
+
+4. Pesquisa de Mercado
+
+*Strava*  Registo GPS, estatísticas, rede social ; Foco competitivo, mas sem conquistas territoriais 
+*Nike Run Club*  Treinos guiados, partilhas sociais ; Menos personalização e desafios entre utilizadores 
+*Zombies Run!*  Gamificação com storytelling ; Limitado a um tipo de desafio, sem componente territorial 
+*INTVL*  Corridas competitivas por território;  partilhas sociais. Conceito inovador, mas vulnerável a fraudes e elevado consumo de bateria; limitações de privacidade. 
+
+___________________________________________________________________
+
+
+5. Guiões de Teste (Casos de Utilização)
+
+*Caso 1 – Core: Conquista de Território*
+1. O utilizador cria conta e autentica-se.  
+2. Define a sua base (casa, escola, escritório).  
+3. Inicia percurso com o GPS ativo.  
+4. Percorre trajeto e regressa à base.  
+5. A app marca o percurso e regista o território conquistado.  
+6. O utilizador recebe pontos ou estatísticas da conquista.
+*Caso 2 – Partilha Social*
+1. Após conquistar território, o utilizador seleciona “Partilhar”.  
+2. Escolhe se quer partilhar com amigos, público ou grupo.  
+3. A app publica o trajeto e resultados.  
+4. Amigos podem comentar ou desafiar o percurso.
+
+*Caso 3 – Competição entre Utilizadores*
+1. O utilizador visualiza no mapa territórios conquistados por outros.  
+2. Seleciona um território para “reconquistar”.  
+3. Faz um percurso maior até ao mesmo local.  
+4. Se o trajeto for superior, o território muda de dono.  
+5. A app atualiza o ranking e notifica ambos os utilizadores.
+
+___________________________________________________________________
+
+*6. Descrição da Solução a Implementar*
+
+*Descrição Genérica*
+A aplicação permitirá:
+- Criação e autenticação de conta;
+- Definição de base pessoal;
+- Registo de percursos via GPS;
+- Criação de territórios conquistados;
+- Partilhas sociais e sistema de ranking;
+- Funcionalidade de competição territorial.
+
+*Enquadramento nas Unidades Curriculares*
+| Unidade Curricular | Contributo |
+|--------------------|------------|
+| Programação Móvel | Desenvolvimento da app (frontend e integração GPS) |
+| Engenharia de Software | Levantamento de requisitos e modelo de domínio |
+| Gestão de Projetos | Planeamento, Gantt e monitorização |
+| Base de Dados | Estrutura de dados de utilizadores, percursos e territórios |
+| Interface e UX | Design da aplicação e protótipo interativo |
+
+*Requisitos Técnicos (provisórios)*
+
+- O sistema deve permitir criar conta e autenticação.  
+- O utilizador deve poder definir a sua base.  
+- A app deve registar percursos via GPS.  
+- Cada percurso deve ser convertido num território.  
+- Outros utilizadores podem tentar reconquistá-lo.  
+- O utilizador deve poder partilhar conquistas.  
+- Deve existir um ranking de conquistas.
+
+- *Desempenho:* registo GPS em tempo real com baixo consumo de bateria.  
+- *Segurança:* proteção de dados pessoais e localização.  
+- *Escalabilidade:* suporte para grande número de utilizadores.  
+- *Confiabilidade:* disponibilidade mínima de 99%.  
+- *Privacidade:* controlo sobre visibilidade das conquistas.
+
+*Arquitetura da Solução (provisória)*
+
+
+*Componentes principais:*
+- App móvel (Frontend);
+- Servidor / API REST (Backend);
+- Base de dados (armazenamento de utilizadores, percursos e territórios);
+- Serviço de mapas e GPS (Google Maps API).
+
+*Tecnologias a Utilizar (provisórias)*
+
+| Camada | Tecnologia sugerida |
+|--------|---------------------|
+| Mobile | Flutter / React Native |
+| Backend | Node.js / Firebase |
+| Base de Dados | Firestore / MySQL |
+| Mapas e GPS | Google Maps API |
+| Autenticação | Firebase Auth |
+
+---
+
+## *7. Planeamento e Calendarização*
+
+⚙ [Adicionar gráfico de Gantt futuramente — exemplo de estrutura]
+
+| Fase | Duração | Entregáveis |
+|------|----------|-------------|
+| Levantamento de Requisitos | Semana 1–2 | Documento de requisitos, modelo de domínio |
+| Design e Protótipo | Semana 3 | Mockups e UI/UX |
+| Desenvolvimento | Semana 4–6 | Versão beta da app |
+| Testes | Semana 7 | Relatório de testes |
+| Implementação e Lançamento | Semana 8 | Publicação e feedback inicial |
+
+---
+
+## *8. Conclusão*
+
+O projeto Walk 4 Conquest pretende combinar gamificação, fitness e socialização através de uma abordagem competitiva e divertida. O objetivo principal é criar um protótipo funcional que permita testar a motivação gerada pela conquista de territórios e interação entre utilizadores. Espera-se que a aplicação contribua para aumentar a prática de atividade física de forma sustentável e envolvente.
+
+---
+
+## *9. Bibliografia*
+
+⚙ [Inserir 5+ referências em formato APA ou IEEE]  
+*Exemplos:*
+- Werbach, K., & Hunter, D. (2012). For the Win: How Game Thinking Can Revolutionize Your Business. Wharton Digital Press.  
+- Google Developers. (2024). Google Maps Platform Documentation. [https://developers.google.com/maps](https://developers.google.com/maps)  
+- Strava Official Site. (2025). [https://www.strava.com](https://www.strava.com)  
+- Nike Run Club. (2025). [https://www.nike.com/nrc-app](https://www.nike.com/nrc-app)  
+- Zombies, Run! Official Site. (2025). [https://zombiesrungame.com](https://zombiesrungame.com)
+
+---
