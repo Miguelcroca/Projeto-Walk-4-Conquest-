@@ -156,7 +156,7 @@ A aplicação permitirá:
 
 ---
 
-## *7. Plano e Calendarização*
+## *7. Plano e Calendário*
 
 
 <img width="812" height="800" alt="image" src="https://github.com/user-attachments/assets/8f8630e6-3506-42a0-a5a0-7494f1ad6282" />
