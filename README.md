@@ -97,10 +97,9 @@ ___________________________________________________________________
 
 *6. Descrição da Solução a Implementar*
 
-*Descrição Genérica*
 A aplicação permitirá:
-- Criação e autenticação de conta;
-- Definição de base pessoal;
+- Criação e autenticação da conta;
+- Definição da base pessoal;
 - Registo de percursos via GPS;
 - Criação de territórios conquistados;
 - Partilhas sociais e sistema de ranking;
@@ -174,12 +173,8 @@ O projeto Walk 4 Conquest pretende combinar gamificação, fitness e socializaç
 
 ## *9. Bibliografia*
 
-⚙ [Inserir 5+ referências em formato APA ou IEEE]  
-*Exemplos:*
-- Werbach, K., & Hunter, D. (2012). For the Win: How Game Thinking Can Revolutionize Your Business. Wharton Digital Press.  
-- Google Developers. (2024). Google Maps Platform Documentation. [https://developers.google.com/maps](https://developers.google.com/maps)  
-- Strava Official Site. (2025). [https://www.strava.com](https://www.strava.com)  
-- Nike Run Club. (2025). [https://www.nike.com/nrc-app](https://www.nike.com/nrc-app)  
-- Zombies, Run! Official Site. (2025). [https://zombiesrungame.com](https://zombiesrungame.com)
+Bump (aplicação)
+ChatGPT(site)
+https://www.jaba-recordati.pt/pt/transact-lat/dicas-de-lifestyle/atividade-fisica-lifestyle-18-descobre-as-10-melhores-apps-de-fitness
+Territorial.io (aplicação)
 
----
