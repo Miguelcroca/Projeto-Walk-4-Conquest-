@@ -3,7 +3,7 @@ Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , 
 Elementos do Grupo 
 Bento d'Orey – Nº 20241233
 Martim Fonseca – Nº 20241218
-Vasco Sousa Pinto – Nº 
+Vasco Sousa Pinto – Nº 20231182
 Miguel Croca - Nº 20240408
 
 ---
