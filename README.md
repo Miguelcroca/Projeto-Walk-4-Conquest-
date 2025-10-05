@@ -1,4 +1,4 @@
-Universidade - Iade Faculdade de Desgin, Tecnologia e Comunicação da Universidade curricular
+Universidade - Iade Faculdade de Design, Tecnologia e Comunicação da Universidade curricular
 Unidades Curriculares - Projeto Desenvolvimento Móvel , Programação Mobile , Programação Orientada por Objetos  , Bases de Dados , Competências Comunicacionais , Matemática Discreta 
 Elementos do Grupo 
 Bento d'Orey – Nº 20241233
