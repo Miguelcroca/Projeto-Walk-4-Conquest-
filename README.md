@@ -159,15 +159,10 @@ A aplicação permitirá:
 
 ## *7. Planeamento e Calendarização*
 
-⚙ [Adicionar gráfico de Gantt futuramente — exemplo de estrutura]
 
-| Fase | Duração | Entregáveis |
-|------|----------|-------------|
-| Levantamento de Requisitos | Semana 1–2 | Documento de requisitos, modelo de domínio |
-| Design e Protótipo | Semana 3 | Mockups e UI/UX |
-| Desenvolvimento | Semana 4–6 | Versão beta da app |
-| Testes | Semana 7 | Relatório de testes |
-| Implementação e Lançamento | Semana 8 | Publicação e feedback inicial |
+
+<img width="812" height="800" alt="image" src="https://github.com/user-attachments/assets/8f8630e6-3506-42a0-a5a0-7494f1ad6282" />
+
 
 ---
 
